@@ -1,5 +1,5 @@
-# open-ctf
-Open-CTF. Operation CTF Easy and Simple
+# Christmas-CTF
+Christmas-CTF make to Open-CTF. Operation CTF Easy and Simple
 
 - Open-CTF based on Christmas-CTF Platform
 - Christmas-CTF based on CodeIgniter/PHP
